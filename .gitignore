@@ -1,0 +1,33 @@
+# Python / Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes Virtuais
+venv/
+env/
+ENV/
+.env/
+
+# Configurações de ambiente e segredos
+.env
+local_settings.py
+db.sqlite3
+
+# Arquivos de mídia e arquivos estáticos coletados
+/media/
+/staticfiles/
+
+# Logs e arquivos temporários
+*.log
+*.pot
+
+# Arquivos de IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+```
+ollowUp>
